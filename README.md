@@ -1,5 +1,5 @@
 **DATA STRUCTURES AND ALGORITHMS**
-Explore Basic DSA codes! This repository is a gateway to the world of exploration with fundamental data structures and algorithms. Dive into strings, arrays, linked lists, and unravel sorting mysteries. With interactive code snippets, basics of DSA is both enjoyable and enlightening. 
+This is me practicing basic DSA codes! This repository is a gateway for me to learn and explore fundamental data structures and algorithms. Diving into strings, arrays, linked lists, sorting, amongst other things. 
 
 **Table of Contents** : 
 1. Duplicate Removal from Array
